@@ -1,3 +1,35 @@
-# Aheen Day Two
+# Aheen Day Two - Python Project Setup
 
-This is my Python Project Setup, Git, and GitHub Workflow assignment.
+## Project Description
+This project demonstrates my understanding of Python project setup, Git, and GitHub workflow.
+
+The assignment project name is `aheen_day_2`, while the GitHub repository is named `aheen_day_two`.
+
+## Project Structure
+- `main.py` - Contains a simple Python program.
+- `README.md` - Provides information about the project.
+
+## Requirements
+- Python 3 installed.
+- A code editor such as Visual Studio Code.
+
+## How to Run the Project
+1. Clone or download this repository.
+2. Open the project folder in your code editor.
+3. Open the terminal.
+4. Run the following command:
+
+```bash
+python main.py
+```
+
+## Expected Output
+```text
+Hello! Welcome to my Python project.
+The sum is: 30
+```
+
+## Technologies Used
+- Python
+- Git
+- GitHub
